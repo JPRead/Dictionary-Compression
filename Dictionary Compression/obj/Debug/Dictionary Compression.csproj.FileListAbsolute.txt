@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\bin\Debug\Dictionary Compression.exe.config
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\bin\Debug\Dictionary Compression.exe
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\bin\Debug\Dictionary Compression.pdb
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\obj\Debug\Dictionary Compression.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\obj\Debug\Dictionary Compression.exe
+c:\users\joe\documents\visual studio 2015\Projects\Dictionary Compression\Dictionary Compression\obj\Debug\Dictionary Compression.pdb
